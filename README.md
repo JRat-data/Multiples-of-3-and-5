@@ -1,5 +1,5 @@
 # Multiples-of-3-and-5
-CodeWars exercise done in Python
+CodeWars exercise done in Python. First exercise I did after the Welcome exercise.
 
 
 Details from CodeWars Exercise:
